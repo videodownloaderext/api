@@ -3,5 +3,10 @@
      "blockerUrl": "https://videodownloaderext.github.io/api/blocker/common.json",
      "siteUrl": "https://www.hashtap.com/@downloader",
      "silence": 0
+  },
+  "gjmphakhhmflinjlighpnefknnkjpild": {
+     "blockerUrl": "https://videodownloaderext.github.io/api/blocker/common.json",
+     "siteUrl": "https://www.hashtap.com/@veevee",
+     "silence": 0
   }
 }
