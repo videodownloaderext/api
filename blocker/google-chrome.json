@@ -73,7 +73,8 @@
     ],
     "Twitch": [
         "*://*.twitch.tv/*",
-        "*://twitch.tv/*"
+        "*://twitch.tv/*",
+        "*://*.ttvnw.net/*"
     ],
     "VEVO": [
         "*://*.vevo.com/*",
