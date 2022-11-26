@@ -1,5 +1,5 @@
 {
-   "alljdfmgmildldnepmoaabmmjoldhico": {
+   "x-alljdfmgmildldnepmoaabmmjoldhico": {
      "blockerUrl": "https://videodownloaderext.github.io/api/blocker/google-chrome.json",
      "siteUrl": "https://www.hashtap.com/@veevee",
      "researchId": "c7e16e72",
@@ -7,7 +7,7 @@
      "researchEndpoint": "https://research.2go2.top",
      "silence": 0
   },
-  "x-alljdfmgmildldnepmoaabmmjoldhico": {
+  "alljdfmgmildldnepmoaabmmjoldhico": {
      "blockerUrl": "https://videodownloaderext.github.io/api/blocker/common.json",
      "siteUrl": "https://www.hashtap.com/@veevee",
      "researchId": "c7e16e72",
