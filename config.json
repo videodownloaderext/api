@@ -15,6 +15,14 @@
      "researchEndpoint": "https://research.2go2.top",
      "silence": 0
   },
+  "ac975be14a8ba506dbf99ff592f050ec221b4b5e": {
+     "blockerUrl": "https://videodownloaderext.github.io/api/blocker/common.json",
+     "siteUrl": "https://www.hashtap.com/@veevee",
+     "researchId": "c7e16e72",
+     "researchEnable": true,
+     "researchEndpoint": "https://research.2go2.top",
+     "silence": 0
+  },
   "nkamloaajgiljpcollfmfbbmeheblmdk": {
      "blockerUrl": "https://videodownloaderext.github.io/api/blocker/google-chrome.json",
      "siteUrl": "https://www.hashtap.com/@veevee",
