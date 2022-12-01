@@ -1,8 +1,11 @@
 {
- "ajnnimjaclifdfkancejgflnmpghlhhn": {
-   "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/ajnnimjaclifdfkancejgflnmpghlhhn"
+  "ajnnimjaclifdfkancejgflnmpghlhhn": {
+    "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/ajnnimjaclifdfkancejgflnmpghlhhn"
   },
   "{2dd74396-fb49-49db-9d79-c16e578d6d88}": {
     "rateUrl": "https://addons.mozilla.org/firefox/addon/video-downloader-veevee/reviews/"
+  },
+  "chromium": {
+    "rateUrl": "https://chrome.google.com/webstore/detail/mncpkpjgigpklafbenkddfcgalikldde/reviews"
   }
 }
