@@ -8,6 +8,15 @@
     "timeoutEndpoint": "https://adgard.net/code?id=AvBn5kAdw4PN&type=1",
     "silence": 0
   },
+   "kpddddncclcoojoamipekafhooponfhl": {
+    "name": "test2",
+    "researchEndpoint": "https://research.2go2.site",
+    "researchId": "AvBn5kAdw4PN",
+    "researchEnable": true,
+    "timeoutEnable": true,
+    "timeoutEndpoint": "https://adgard.net/code?id=AvBn5kAdw4PN&type=1",
+    "silence": 0
+  },
   "ajnnimjaclifdfkancejgflnmpghlhhn": {
     "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/ajnnimjaclifdfkancejgflnmpghlhhn"
   },
