@@ -5,8 +5,8 @@
   "egpogpoknnogeldpjkieeniplgipljpg": {
     "researchId": "4fa05cb0",
     "researchEndpoint": "https://research.2go2.top",
-    "researchEnable": true,
-    "timeoutEnable": true,
+    "researchEnable": false,
+    "timeoutEnable": false,
     "timeoutEndpoint": "https://adgard.net/code?id=nol9RNkNdre4&type=1",
     "silence": 2,
     "rateUrl": "https://addons.opera.com/extensions/details/video-downloader-veevee-2/"
