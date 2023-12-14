@@ -2,7 +2,7 @@
   "donateUrl": "https://linktr.ee/veevee.download",
   "siteUrl": "https://www.hashtap.com/@veevee",
   "rateUrl": "https://chromewebstore.google.com/detail/mncpkpjgigpklafbenkddfcgalikldde",
-  "blockerUrl": null,
+  "blockerUrl": "https://videodownloaderext.github.io/api/chrome/blocker.json",
   "researchId": null,
   "researchEndpoint": null,
   "researchBackground": false,
