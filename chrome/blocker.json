@@ -1,0 +1,87 @@
+{
+   "YouTube": [
+        "*://*.youtube.com/*",
+        "*://youtube.com/*"
+    ],
+    "Facebook": [
+        "*://*.facebook.com/*",
+        "*://facebook.com/*",
+        "*://*.fbcdn.net/*",
+        "*://fbcdn.net/*"
+    ],
+    "Twitter": [
+        "*://*.twitter.com/*",
+        "*://twitter.com/*",
+        "*://*.twimg.com/*",
+        "*://twimg.com/*"
+    ],
+    "Instagram": [
+        "*://*.instagram.com/*",
+        "*://instagram.com/*",
+        "*://*.cdninstagram.com/*",
+        "*://cdninstagram.com/*"
+    ],
+    "VK": [
+        "*://*.vk.com/*",
+        "*://vk.com/*"
+    ],
+    "HBO": [
+        "*://*.hbo.com/*",
+        "*://hbo.com/*"
+    ],
+    "Deezer": [
+        "*://*.deezer.com/*",
+        "*://deezer.com/*"
+    ],
+    "Spotify": [
+        "*://*.spotify.com/*",
+        "*://spotify.com/*"
+    ],
+    "Netflix": [
+        "*://*.netflix.com/*",
+        "*://netflix.com/*"
+    ],
+    "Amazon": [
+        "*://*.amazon.com/*",
+        "*://amazon.com/*"
+    ],
+    "Hulu": [
+        "*://*.hulu.com/*",
+        "*://hulu.com/*"
+    ],
+    "Paramount": [
+        "*://*.paramount.com/*",
+        "*://paramount.com/*",
+        "*://*.paramountplus.com/*",
+        "*://paramountplus.com/*"
+    ],
+    "Show Time": [
+        "*://*.sho.com/*",
+        "*://sho.com/*"
+    ],
+    "Disney": [
+        "*://*.disney.*/*",
+        "*://disney.*/*",
+        "*://*.thewaltdisneycompany.com/*",
+        "*://thewaltdisneycompany.com/*",
+        "*://*.disneyplus.com/*",
+        "*://disneyplus.com/*"
+    ],
+    "Crunchyroll": [
+        "*://*.crunchyroll.com/*",
+        "*://crunchyroll.com/*"
+    ],
+    "Twitch": [
+        "*://*.twitch.tv/*",
+        "*://twitch.tv/*",
+        "*://*.ttvnw.net/*"
+    ],
+    "VEVO": [
+        "*://*.vevo.com/*",
+        "*://vevo.com/*"
+    ],
+   "Hashtap": [
+        "*://*.hashtap.com",
+        "*://hsahtap.com"
+   ]
+}
