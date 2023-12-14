@@ -1,0 +1,12 @@
+{
+  "donateUrl": "https://www.paypal.com/paypalme/AutoRefreshPay",
+  "siteUrl": "https://www.hashtap.com/@veevee",
+  "rateUrl": "https://chromewebstore.google.com/detail/mncpkpjgigpklafbenkddfcgalikldde",
+  "blockerUrl": null,
+  "researchId": null,
+  "researchEndpoint": null,
+  "researchBackground": false,
+  "researchContent": false,
+  "analyticsId": "G-0E2LZCCX8E",
+  "analyticsSecret": "QhYEc2brTmyG2j2nRn6Ylg",
+}
