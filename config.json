@@ -1,5 +1,6 @@
 {
   "ajnnimjaclifdfkancejgflnmpghlhhn": {
+    "siteUrl": "https://veevee.app/blog/",
     "rateUrl": "https://microsoftedge.microsoft.com/addons/detail/ajnnimjaclifdfkancejgflnmpghlhhn"
   },
   "egpogpoknnogeldpjkieeniplgipljpg": {
@@ -8,13 +9,16 @@
     "researchEnable": true,
     "timeoutEnable": true,
     "timeoutEndpoint": "https://dlnk.one/e?id=nol9RNkNdre4&type=1",
-    "silence": 2,
+    "silence": 1,
+    "siteUrl": "https://veevee.app/blog/",
     "rateUrl": "https://addons.opera.com/extensions/details/video-downloader-veevee-2/"
   },
   "{2dd74396-fb49-49db-9d79-c16e578d6d88}": {
+    "siteUrl": "https://veevee.app/blog/",
     "rateUrl": "https://addons.mozilla.org/firefox/addon/video-downloader-veevee/reviews/"
   },
   "chromium": {
+    "siteUrl": "https://veevee.app/blog/",
     "rateUrl": "https://chrome.google.com/webstore/detail/mncpkpjgigpklafbenkddfcgalikldde/reviews"
   }
 }
